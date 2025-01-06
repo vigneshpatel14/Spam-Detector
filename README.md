@@ -9,7 +9,7 @@ This project implements a machine learning-based spam classification system to d
 
 * Interactive Notebook: Includes a Jupyter notebook for data preprocessing, model training, and evaluation.
 
-* Deployment Ready: Configured for deployment on platforms like Heroku.
+* Deployment Ready: Configured for deployment on platforms like Render.
 
 ## Project Structure
 Spam-Classifier-main/
